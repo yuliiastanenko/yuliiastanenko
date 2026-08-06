@@ -6,7 +6,9 @@ Full stack developer building cross-platform mobile & web apps with **React Nati
 
 ### 🛠 Tech
 **Frontend:** React Native (Expo), Next.js, React, TypeScript, Zustand, Tailwind / NativeWind
+
 **Backend:** Node.js / Express, REST APIs, PostgreSQL, Prisma, MongoDB, Socket.IO, Redis
+
 **Cloud & tooling:** AWS S3, Vercel, Railway, Firebase, GitHub Actions, Vitest
 
 ### 📌 Featured projects
