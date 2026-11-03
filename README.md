@@ -13,8 +13,11 @@ Helsingborg, Sweden · [Portfolio](https://stanenko.vercel.app) · juliastanenko
 
 **Cloud & tooling:** AWS S3, Cloudflare R2, Vercel, Render, Railway, Firebase, GitHub Actions, Vitest
 
+**3D:** Three.js, React Three Fiber, drei
+
 ### Featured projects
 - **[StyleGuard](https://github.com/yuliiastanenko/styleguard)** — brand-consistency tool for AI image generation: every image is checked against brand rules by a vision model, with an eval of the judge itself (93% agreement with hand labels), versioned brands and Slack alerts on style drift. Hono · TypeScript · Postgres · Prisma · Cloudflare · [Live demo](https://styleguardtest.lovable.app)
+- **[Store Planner 3D](https://github.com/yuliiastanenko/store-planner-3d)** — 3D retail floor planner: drag store fixtures on a grid with snapping, rotate, detect overlaps, switch between 3D and plan view, undo/redo and JSON import/export with schema validation. Fully keyboard-operable with screen reader announcements; domain logic kept framework-free and unit-tested. React · TypeScript · React Three Fiber · Three.js · Zustand · Vitest · [Live demo](https://store-planner-3d.vercel.app)
 - **[ApplyTrack](https://github.com/yuliiastanenko/applytrack)** — job-search platform: Kanban tracker, multi-source job feed, automated email digests. Next.js · TypeScript · Postgres · Prisma · [Live demo](https://applytrack-sooty.vercel.app)
 - **Walkey** — accelerator-winning dog-matching app with a real-time geolocation matching algorithm built from my Master's thesis. React Native · Node.js · Socket.IO
 - **GlobePerson & GlobePatient** — cross-platform healthtech app shipped to TestFlight, dual backend. React Native · Node.js · AWS
