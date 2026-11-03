@@ -19,4 +19,4 @@ Helsingborg, Sweden · [Portfolio](https://stanenko.vercel.app) · juliastanenko
 - **Walkey** — accelerator-winning dog-matching app with a real-time geolocation matching algorithm built from my Master's thesis. React Native · Node.js · Socket.IO
 - **GlobePerson & GlobePatient** — cross-platform healthtech app shipped to TestFlight, dual backend. React Native · Node.js · AWS
 
-*Open to junior / full stack developer roles — feel free to reach out.*
+*Open to full stack developer roles — feel free to reach out.*
